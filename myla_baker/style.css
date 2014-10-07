@@ -1,0 +1,24 @@
+body {
+	background-color: #E0FFFF;
+}
+p {
+	text-align: center;
+	font-size: 72px;
+	font-family: 'Indie Flower', cursive;
+}
+table {
+	border-spacing: 2px;
+	border-collapse: collapse;
+	margin: 0 auto;
+	border-radius: 30px;
+}
+td {
+	border: 5px solid #33CCFF;
+	width:200px;
+	height:200px;
+	text-align: center;
+	background-color: white;
+	box-shadow: inset 0 0 0 2px #CCE0E0;
+	font-size: 100px;
+	font-family: 'Indie Flower', cursive;
+}
